@@ -1,0 +1,1 @@
+aplikacja jest prostym kalkulatorem z opcją dodawania, odejmowania, mnożenia, dzielenia, potegowania, pierwiastkowania i logarytmowania.
